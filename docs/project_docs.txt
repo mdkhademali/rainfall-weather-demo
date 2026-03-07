@@ -1,0 +1,14 @@
+
+Rainfall Weather Project Documentation
+
+Modules:
+
+1. Data Handling
+2. Rainfall Prediction Model
+3. Visualization
+4. MATLAB Statistical Analysis
+
+This project can be extended with:
+- Deep learning rainfall prediction
+- Satellite rainfall datasets
+- Climate change analysis
