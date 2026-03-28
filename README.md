@@ -3,7 +3,7 @@
 
 This project demonstrates a complete rainfall analysis and prediction pipeline using Python and MATLAB.
 
-## Features
+## Key Feature
 - Rainfall data preprocessing
 - Exploratory data analysis
 - Visualization
